@@ -1,6 +1,11 @@
 "use strict";
-let user = "Nick";
-console.log(user);
-let a = 42;
-let b = '69';
-let c = 34;
+let myName = 'Nick';
+let meaningOfLife = 42;
+let isLoading;
+let album;
+myName = 'Ben';
+meaningOfLife = 42;
+isLoading = true;
+album = 1984;
+const sum = (a, b) => a + b;
+// Primitive Types: number, string, boolean, union
